@@ -1,4 +1,4 @@
-# Имя workflow
+# Имя workflow.
 name: Main Taski Workflow
 # Перечень событий-триггеров, при которых должен запускаться workflow
 on:
